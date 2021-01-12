@@ -1,0 +1,1 @@
+(this.webpackJsonpappAdmin=this.webpackJsonpappAdmin||[]).push([[22],{772:function(_,e,t){_.exports={home_wrap:"home_home_wrap__3dAZo",home:"home_home__2p6Kv",left:"home_left__1-ZW0",right:"home_right__18nnI",title:"home_title__tiBD5",sub_title:"home_sub_title__ecF4h"}}}]);
